@@ -1,0 +1,51 @@
+{
+	"source": "http://cocodataset.org/#download",
+
+	"info": {
+		"year" : 2018, 
+		"version" : "", 
+		"description" : "", 
+		"contributor" : "", 
+		"url" : "", 
+		"date_created" : ""
+	},
+	"images": [
+		{
+			"id" : 1,
+			"width" : 0,
+			"height" : 0,
+			"file_name" : "",
+			"license" : 1,
+			"flickr_url" : "",
+			"coco_url" : "",
+			"date_captured" : "2013-11-15 06:55:40"	
+		}
+	],
+	"annotations": [
+		{
+			"id" : 1,
+			"image_id" : 1,
+			"category_id" : 1,
+			"segmentation" : [],
+			"area" : 0.0,
+			"bbox" : [0,0,0,0],
+			"iscrowd" : 0
+		}
+	],
+	"licenses": [
+		{
+			"id" : 1, 
+			"name" : "", 
+			"url" : ""
+		}
+	],
+
+	"categories": [
+		{
+			"id" : 1, 
+			"name" : "", 
+			"supercategory" : ""
+		}
+	]
+
+}
